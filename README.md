@@ -20,8 +20,8 @@ Learning javascript and java framework
 - [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jagmeet-singh-546b66108/") 💼
 
 <p float="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=jagmeet.class&show_icons=true&count_private=true&theme=radical"/>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagmeet.class&layout=compact&hide=tsql&show_icons=true&theme=radical" />
+<img  src="https://github-readme-stats.vercel.app/api?username=jsbhatia12367&show_icons=true&count_private=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsbhatia12367&layout=compact&hide=tsql&show_icons=true&theme=radical" />
 </p>
 <!--
 **jsbhatia12367/jsbhatia12367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
