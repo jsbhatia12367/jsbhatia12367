@@ -8,7 +8,7 @@
 
 <p align="center">I'm a Full Stack Developer.
 I'm currently pursuing MTech in computer science from IIITB.<br/>
-Tech Stack -> Java , Jdbc , Mysql , Javascript , Bootstrap , Php , Css , Html.
+Tech Stack -> Java , Jdbc , React , GWT , Mockito , Mysql , Javascript , Bootstrap , Php , Css , Html.
 </p>
 
 ### 💻 What i am currently doing
